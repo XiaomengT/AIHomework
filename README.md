@@ -1,5 +1,12 @@
-# AIBigHomeWork
+# AIHomeWork
 文本检测与识别（OCR）
+
+## 初步技术方案
++ 文本检测
+    * CTPN
++ 文本识别
+    * CRNN
+    * CTC
 
 ## 相关文献
 [1.VGG16](http://noahsnail.com/2017/08/17/2017-08-17-VGG%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)
