@@ -20,3 +20,13 @@
 [5.CRNN](http://noahsnail.com/2017/08/21/2017-08-21-CRNN%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7/)
 
 [6.CTC](https://people.idsia.ch//~santiago/papers/icml2006.pdf)
+
+
+
+## dataset
+very big, 0.99G
+https://www.robots.ox.ac.uk/~vgg/data/text/
+
+
+5000 pics
+http://cvit.iiit.ac.in/projects/SceneTextUnderstanding/IIIT5K.html
