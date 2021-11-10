@@ -21,6 +21,7 @@
 
 [6.CTC](https://people.idsia.ch//~santiago/papers/icml2006.pdf)
 
+[7.DBNet](https://arxiv.org/pdf/1911.08947.pdf)
 
 
 ## dataset
