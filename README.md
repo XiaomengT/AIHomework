@@ -23,6 +23,9 @@
 
 [7.DBNet](https://arxiv.org/pdf/1911.08947.pdf)
 
+[8.Resnet](https://arxiv.org/pdf/1512.03385.pdf)
+
+[9.FNP特征金字塔](https://arxiv.org/pdf/1612.03144.pdf)
 
 ## dataset
 very big, 0.99G
