@@ -34,3 +34,8 @@ https://www.robots.ox.ac.uk/~vgg/data/text/
 
 5000 pics
 http://cvit.iiit.ac.in/projects/SceneTextUnderstanding/IIIT5K.html
+
+
+https://github.com/WenmuZhou/OCR_DataSet
+
+https://mp.weixin.qq.com/s/akozdv33s-o0vrPjG1ergw
